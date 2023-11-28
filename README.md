@@ -1,15 +1,17 @@
+## NAME:YENDLURI CHANDANA
+## Register no.: 23011258
+
 # Experiment-03 Implementation of Half Adder and Full Adder circuit
 
 # Implementation ofHalf Adder and Full Adder circuit
-#### NAME:YENDLURI CHANDANA
-#### Register no.: 23011258
+
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
 ### Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
+## Theory
 Adders are digital circuits that carry out addition of numbers.
 
 ### Half Adder
@@ -51,7 +53,7 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 ### Program:
 
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-#### HALF ADDER
+## HALF ADDER
 
 module Halfadder(sum,a,b,carry);
 
@@ -73,7 +75,8 @@ endmodule
 ![image](https://github.com/23011258/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139842204/ebf41c12-dbdd-49a1-ac03-d4b05dc385aa)
 ### WAVE FORM:
 
-![Screenshot (19)](https://github.com/23011258/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139842204/d067c539-5a66-474c-bd86-d80250faf08b)
+![Screenshot 2023-11-28 172412](https://github.com/23011258/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139842204/a8adbad5-297e-41f5-9800-da7cde5bc749)
+
 ### FULL ADDER:
 module fulladder(a,b,c,sum,carry);
 

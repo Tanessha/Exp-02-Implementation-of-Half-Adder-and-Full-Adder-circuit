@@ -1,4 +1,4 @@
-## NAME:Tanessha 
+## NAME: Tanessha Kannan
 ## Register no.: 23006086
 ## Experiment-03 Implementation of Half Adder and Full Adder circuit
 Implementation ofHalf Adder and Full Adder circuit
